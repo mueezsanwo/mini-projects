@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-#one {
+.one {
     background-color: darkcyan;
     text-align: center;
     line-height: 25px;
@@ -10,7 +10,7 @@
     
 }
 
-#three {
+.three {
     background-color: lightblue;
     line-height: 50px;
     
@@ -20,7 +20,7 @@ ol li {
     list-style: none;
 }
 
-#five {
+.five {
     background-color: darkcyan;
     line-height: 50px;
 }
