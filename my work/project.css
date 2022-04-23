@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0%;
+  
+}
+
+body, html {
+  height: 100%;
+}
+
+.bg {
+  background-image: url(http://api.citrone.co/87836892-6413-48b2-8e2d-3ec2c1beb031.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
+
+header {
+  position: static;
+  top: 0%;
+  height: 100px;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+  
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+
+ul li a {
+  padding: 10px;
+  text-decoration: none;
+  text-transform: capitalize;
+  display: inline-block;
+  color: black;
+}
+
+.dropdown {
+  border: none;
+  
+}
+
+#header_2 {
+  text-transform: uppercase;
+  display: flex;
+  letter-spacing: 2px;
+  
+}
+
+#paragraph {
+  text-transform: uppercase;
+  display: inline;
+  letter-spacing: 6px;
+}
+
+.description {
+  text-align: center;
+  line-height: 30px;
+  margin-top: 250px;
+}
+
+.design {
+  text-transform: uppercase;
+  word-spacing: 20px;
+  text-decoration: solid;
+  color: white;
+  letter-spacing: 5px;
+  font-weight: 900;
+  text-align: center;
+}
+
+.text-paragraph {
+  text-transform: capitalize;
+  word-spacing: 5px;
+  color: white;
+}
+
+#sign-in {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 1px solid white;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.get-in-touch {
+  padding: 5px 5px 5px 5px;
+  margin-right: 13px;
+  text-transform: uppercase;
+  background-color: transparent;
+
+}
